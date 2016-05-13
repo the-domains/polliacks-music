@@ -1,0 +1,28 @@
+name: Polliacks Music
+favicon: null
+layout_spectrum: 0.9658762312028557
+typography_spectrum: 0.6789266264531761
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2755531850270927
+  lightness: 0.23091998952440917
+  saturation: 0.40574129740707576
+  rhythmicContrast: 0.39708687481470406
+purpose: []
